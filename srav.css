@@ -19,5 +19,10 @@ h2{
 
 xmp{
     display: inline-block;
+    background-color: rgb(55, 55, 56);
     border: 1px,solid,white;
+}
+
+a{
+    background-color: silver;
 }
